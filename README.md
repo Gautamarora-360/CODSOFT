@@ -14,12 +14,9 @@ Below is the list of tasks I have completed as part of this internship:
 
 Task 1: Landing Page
 
-Task 2: 
+Task 2:Portfolio
 
-Task 3: 
-
-Task 4: 
-
+Task 3: Calculator
 
 Thanking CodSoft
 I would like to extend my sincere thanks and gratitude to the entire CodSoft team for providing me with this incredible opportunity to be a part of their internship program. The experience gained during this internship has been invaluable, and I am grateful for the guidance, mentorship, and support I received from CodSoft's team.
