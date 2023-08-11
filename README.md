@@ -1,5 +1,5 @@
 CodSoft Internship Tasks Repository
-This Repo is all about my task's During Web Development Internship At CODSOFT
+
 Welcome to the CodSoft Internship Tasks Repository! This repository contains all the code and resources related to the tasks assigned to me during my internship at CodSoft. Here, you will find a collection of completed tasks, each designed to enhance my skills.
 
 Table of Contents
